@@ -7,5 +7,7 @@ All of these .pbix files and insights were my submissions for this program, exce
 This virtual experience program consists of 3 tasks:
 
 Task 1: Create Call Centre Dashboard - visualizing customer and agent behavior.
+
 Task 2: Create Customer Retention and predict churn customers - visualizing customer demographics and insights.
+
 Task 3: Create Diversity and Inclusion in HR - visualizing gender balance in the executive suite.
